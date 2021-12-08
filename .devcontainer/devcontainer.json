@@ -1,0 +1,12 @@
+{
+    "name": "ruby-mokumoku",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "app",
+    "workspaceFolder": "/usr/src/app",
+    "settings": {
+        "editor.tabSize": 4
+    },
+    "extensions": [
+        "rebornix.ruby"
+    ]
+}
